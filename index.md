@@ -2,7 +2,7 @@
 Hier können Sie sich über meine Tätigkeit als freiberuflicher IT-Berater näher informieren und sich ein grobes Bild über meine Arbeit machen. Sollten Sie noch Fragen haben oder meine Beratung wünschen, so können Sie mich gerne kontaktieren.
 
 ## Projekte
-### IT-Beratung einer Gemeinschaftspraxis
+### Betreuung einer Gemeinschaftspraxis
 Eine Gemeinschaftspraxis für Physiotherapie, Psychotherapie und Naturheilkunde
 habe ich von der Gründung an begleitet. Ich habe die Planung, Anschaffung und
 Installation der gesamten ITC Infrastruktur übernommen. Darüber hinaus habe ich
