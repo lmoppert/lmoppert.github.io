@@ -1,8 +1,4 @@
----
-title: IT-Management Beratung
----
-
-# Lutz Moppert IT-Management Beratung
+# IT-Management Beratung
 Hier können Sie sich über meine Tätigkeit als freiberuflicher IT-Berater näher informieren und sich ein grobes Bild über meine Arbeit machen. Sollten Sie noch Fragen haben oder meine Beratung wünschen, so können Sie mich gerne kontaktieren.
 
 ## Meine bisherigen Berufserfahrungen
