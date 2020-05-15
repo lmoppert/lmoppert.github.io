@@ -10,13 +10,14 @@ Bis Dezember 2019  habe ich in einem Chemieunternehmen in Leverkusen als Manager
 
 In der Vergangenheit habe ich unter anderem eine Sach-Rückversicherung dabei unterstützt, die IT durch einen externen Dienstleister abzubilden. Für mehrere kleine Unternehmen habe ich den Internetauftritt erstellt und übernheme weiterhin die technische und Inhaltliche Betreuung.
 
-Zurzeit unterstütze ich einen großen, internationaler Konzern bei der weiterentwicklung intern genutzter Anwendung.
+Zurzeit unterstütze ich einen großen, internationaler Konzern bei der weiterentwicklung intern genutzter Anwendung. Dieses Projekt wird mich noch bis Ende 2020 beschöftigen, daher kann ich zur Zeit leider keine neuen Projekte angehen. Sollten Sie interesse an einer Zusammenarbeit ab Januar 2021 haben, nutzen Sie bitte die unten angegeben Kontaktwege.
 
 ## Kontakt
     Lutz Moppert
     IT-Management Beratung
     Kurt-Weill-Weg 68
     50829 Köln
+
     Telefon: +49 221 6202216
     Mobil:   +49 15221 909479
     E-Mail:  mail@moppert.de
