@@ -3,7 +3,7 @@ title: IT-Management Beratung
 ---
 
 # Lutz Moppert IT-Management Beratung
-Hier können Sie sich über meine Tätigkeit als freiberuflicher IT-Berater näher informieren und sich ein grobes Bild über meine Arbeit machen. Sollten Sie noch Fragen haben oder meine Beratung wünschen, so können Sie mich gerne kontaktieren. 
+Hier können Sie sich über meine Tätigkeit als freiberuflicher IT-Berater näher informieren und sich ein grobes Bild über meine Arbeit machen. Sollten Sie noch Fragen haben oder meine Beratung wünschen, so können Sie mich gerne kontaktieren.
 
 ## Meine bisherigen Berufserfahrungen
 Bis Dezember 2019  habe ich in einem Chemieunternehmen in Leverkusen als Manager IT Security & Web Development gearbeitet. Seither bin ich wieder als Freiberuflicher IT Berater tätig.
@@ -13,10 +13,10 @@ In der Vergangenheit habe ich unter anderem eine Sach-Rückversicherung dabei un
 Zurzeit unterstütze ich einen großen, internationaler Konzern bei der weiterentwicklung intern genutzter Anwendung.
 
 ## Kontakt
-Lutz Moppert 
-IT-Management Beratung 
-Kurt-Weill-Weg 68
-50829 Köln 
-Telefon: +49 221 6202216
-Mobil:   +49 15221 909479  
-E-Mail:  mail@moppert.de  
+    Lutz Moppert
+    IT-Management Beratung
+    Kurt-Weill-Weg 68
+    50829 Köln
+    Telefon: +49 221 6202216
+    Mobil:   +49 15221 909479
+    E-Mail:  mail@moppert.de
