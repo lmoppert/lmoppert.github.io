@@ -18,9 +18,6 @@
   <body>
       <div id="header">
         <nav>
-          <li style="background:transparent;">
-              <img style="width:auto;height:100%;" src="{{ '/assets/images/logo.png' | relative_url }}" alt="LM">
-          </li>
           <li class="fork" style="margin-right: 10px;"><a href="/index.html">Über mich</a></li>
           <li class="fork"><a href="/projects.html">Bisherige Projekte</a></li>
           <li class="downloads"><a href="{{ site.github.repository_url }}">GitHub Repository</a></li>
@@ -38,8 +35,7 @@
 
       <section>
         <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <img style="width:50%;height:auto;" src="{{ '/assets/images/logo.png' | relative_url }}" alt="LM">
           <hr>
           <p style="font-size:14px">Kurt-Weill-Weg 68 | 50829 Köln |
           Mobil: +49 15221 909479 | E-Mail:  mail@moppert.de</p>
