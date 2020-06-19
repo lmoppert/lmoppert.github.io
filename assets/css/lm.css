@@ -1,1 +1,3 @@
 html body #header {display: none}
+#title img {width: 100%; height: auto;}
+#title p {font-size: 14px;}

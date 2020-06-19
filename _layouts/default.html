@@ -3,8 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="/assets/css/lm.css">
     <!--[if lt IE 9]>
@@ -17,28 +16,12 @@
 
   </head>
   <body>
-      <!--
-      <div id="header">
-        <nav>
-          <li class="fork" style="margin-right: 10px;"><a href="/index.html">Über mich</a></li>
-          <li class="fork"><a href="/projects.html">Bisherige Projekte</a></li>
-          <li class="downloads"><a href="{{ site.github.repository_url }}">GitHub Repository</a></li>
-          {% if site.show_downloads %}
-            <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
-            <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
-            <li class="title">DOWNLOADS</li>
-          {% endif %}
-        </nav>
-      </div>
-      -->
-
     <div class="wrapper">
-
       <section>
         <div id="title">
-          <img style="width:100%;height:auto;" src="{{ '/assets/images/logo.png' | relative_url }}" alt="LM">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="LM">
           <hr>
-          <p style="font-size:14px">Kurt-Weill-Weg 68 | 50829 Köln |
+          <p>Kurt-Weill-Weg 68 | 50829 Köln |
           Mobil: +49 15221 909479 | E-Mail:  mail@moppert.de</p>
         </div>
 
@@ -48,16 +31,6 @@
 
     </div>
 
-    {% if site.google_analytics %}
-      <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
   </body>
