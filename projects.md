@@ -27,3 +27,5 @@ einen einfachen Überblick über die zu messenden KPIs bot.
 Nachdem die Entscheidung für den zukünfitgen Partner getroffen wurde, habe ich
 für eine Übergangszeit die Einarbeitung der neuen Ansprechpartner begleitet und
 das Monitoring in Details angepasst.
+
+[Über mich](/index.html)

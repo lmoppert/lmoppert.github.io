@@ -5,4 +5,4 @@ Angestellter und auch als externer Berater. Der Blick über den Tellerrand war
 mir dabei immer sehr wichtig und hat dabei geholfen, das Wesentliche im Blick
 zu behalten und IT nicht als Selbstzweck zu verstehen.
 
-
+[Bisherige Projekte](/projects.html)
