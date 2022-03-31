@@ -5,7 +5,7 @@
 Eine Gemeinschaftspraxis für Physiotherapie, Psychotherapie und Naturheilkunde
 habe ich von der Gründung an begleitet. Ich habe die Planung, Anschaffung und
 Installation der gesamten ITC Infrastruktur übernommen. Darüber hinaus habe ich
-den Webauftritt gestaltet und auch bei der erstellung der Inhalte mitgewirkt.
+den Webauftritt gestaltet und auch bei der Erstellung der Inhalte mitgewirkt.
 
 Die Praxis wird nach wie vor von mir betreut und die Webseite hat mittlerweile
 auch ein größeres Redesign bekommen und basiert nun auf moderneren
